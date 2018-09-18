@@ -63,7 +63,7 @@ long subseqmax3(int a[], int left, int right) {
 	
 	long max;
 
-	if (left == right) max = a[left];
+	max = a[left];
 	else if (left < right) {
 		int mid = (right + left) / 2;
 		long maxL = subseqmax3(a, left, mid);

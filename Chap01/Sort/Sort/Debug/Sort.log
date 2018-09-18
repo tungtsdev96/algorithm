@@ -1,4 +1,4 @@
 ﻿  Sort.cpp
-d:\1_tài liệu cntt\tai lieu nam 5 cntt\kì 1\thuật toán ss\20181\project\chap01\sort\sort\sort.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-d:\1_tài liệu cntt\tai lieu nam 5 cntt\kì 1\thuật toán ss\20181\project\chap01\sort\sort\sort.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\1_tài liệu cntt\tai lieu nam 5 cntt\kì 1\thuật toán ss\20181\project\chap01\sort\sort\sort.cpp(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\1_tài liệu cntt\tai lieu nam 5 cntt\kì 1\thuật toán ss\20181\project\chap01\sort\sort\sort.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Sort.vcxproj -> D:\1_Tài liệu CNTT\Tai lieu nam 5 CNTT\Kì 1\Thuật toán SS\20181\project\Chap01\Sort\Debug\Sort.exe
