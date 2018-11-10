@@ -18,5 +18,8 @@
     <ClCompile Include="SUBSEQMAX .cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Maxsubseq.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
