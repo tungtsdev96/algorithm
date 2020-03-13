@@ -91,10 +91,7 @@ You can download slide [here](https://github.com/tungtsdev96/algorithm/tree/mast
 * Scc
 
 ### Imlement Algorithms related to Graph
-- Check Strongly Connected: 
-       - [Check by DFS](https://www.geeksforgeeks.org/connectivity-in-a-directed-graph/) 
-       -  [Check by BFS](https://www.geeksforgeeks.org/check-given-directed-graph-strongly-connected-set-2-kosaraju-using-bfs/)
-
+* Check Strongly Connected: [By DFS](https://www.geeksforgeeks.org/connectivity-in-a-directed-graph/), [by BFS](https://www.geeksforgeeks.org/check-given-directed-graph-strongly-connected-set-2-kosaraju-using-bfs/)
 * [Dijkstra](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
 * [Kruskal](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 
